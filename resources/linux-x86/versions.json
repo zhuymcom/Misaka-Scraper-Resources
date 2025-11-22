@@ -1,7 +1,7 @@
 {
   "platform": "linux",
   "type": "x86",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "scrapers": {
     "iqiyi": "1.0.0",
     "bilibili": "1.0.0",
@@ -14,5 +14,18 @@
     "gamer": "1.0.0",
     "sohu": "1.0.0",
     "youku": "1.0.3"
+  },
+  "hashes": {
+    "iqiyi": "f8410aeabd15f0c781366fa5e782c7cbdd8c8726d834e2f77d5359c2ad284759",
+    "bilibili": "371891900912e500e4e8f01cfbad8e076ea608c84744b3a0f48bcd33506a47d4",
+    "renren": "c13809f6d8eef1e2c058d09f95c8e7235f9886220d78697a62e401c38161377c",
+    "le": "7004acaa121e6d6d16b0bde8e9358c9023aba6e6497d7819eb4f36913dc3ceb0",
+    "tencent": "a527723f73add771c7f2911e7b3c0ec6714cb0649d14369962f965959f6297e5",
+    "hanjutv": "c0394707bcc00f26b660d7000ab9ea96fb4f9f4c0c21459dd1b43df5d4b19476",
+    "dandanplay": "1ded0d98714a9713a3a75c822db73faee6e9e639da5bca3fecaa84007f6e3fa3",
+    "mgtv": "2af42f649a68006990220fc74545616b93121b4029400f3e0d87e3a573de354a",
+    "gamer": "07e5938273ae514527f44141c2521d1ebc5049dae310bb1e1a7b9dcf954c5abc",
+    "sohu": "bf235189b59eb385df903abcd3664a43a117aa0ad3e5ee65762454192240d24d",
+    "youku": "2cd64ce2d97ed8fce1cee36717679f0c0ab594ee7118f41e62bf6d53b787a780"
   }
 }
