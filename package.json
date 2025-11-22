@@ -1,7 +1,7 @@
 {
-  "version": "1.0.26",
-  "build_date": "2025-11-21T23:57:49Z",
-  "commit": "e30557caa7a378a689912cbeec863d3cb6c2e20b",
+  "version": "1.0.27",
+  "build_date": "2025-11-22T03:14:00Z",
+  "commit": "ad1f3eefeb6e41c7305e6aa031e0c6d6f20b6a37",
   "python_version": "3.11",
   "resources": {
     "bilibili": {
@@ -12,6 +12,11 @@
         "linux-x86": "resources/linux-x86/bilibili.so",
         "linux-arm": "resources/linux-arm/bilibili.so",
         "windows-amd64": "resources/windows-amd64/bilibili.pyd"
+      },
+      "hashes": {
+        "linux-x86": "371891900912e500e4e8f01cfbad8e076ea608c84744b3a0f48bcd33506a47d4",
+        "linux-arm": "9ab295deff150afc0e1d475544c19e5f432f5863e3ee544a82d3ff08c66ae1b1",
+        "windows-amd64": "fae138a5c5b70980892b8ffc24bb90acbd3e791c6d8e04cacfb3b294ff37c51b"
       }
     },
     "iqiyi": {
@@ -22,6 +27,11 @@
         "linux-x86": "resources/linux-x86/iqiyi.so",
         "linux-arm": "resources/linux-arm/iqiyi.so",
         "windows-amd64": "resources/windows-amd64/iqiyi.pyd"
+      },
+      "hashes": {
+        "linux-x86": "f8410aeabd15f0c781366fa5e782c7cbdd8c8726d834e2f77d5359c2ad284759",
+        "linux-arm": "2996eba20b79e47f672a6787fa11b472f2b7aa21a831042c2687a6abe9b3a4fc",
+        "windows-amd64": "af7a49a099a9a667dc0b1cb42ddb0b5ec41ae9dfbcc178b319fc9e0260fbda75"
       }
     },
     "tencent": {
@@ -32,6 +42,11 @@
         "linux-x86": "resources/linux-x86/tencent.so",
         "linux-arm": "resources/linux-arm/tencent.so",
         "windows-amd64": "resources/windows-amd64/tencent.pyd"
+      },
+      "hashes": {
+        "linux-x86": "a527723f73add771c7f2911e7b3c0ec6714cb0649d14369962f965959f6297e5",
+        "linux-arm": "4d0a4f3f1b6a39580c797fffcfea082b794282ab30c4711dc8e9cc6b65880dea",
+        "windows-amd64": "edc40ee1e51ebd5ce8afc4d499e7c9a64e749572dec541c4eb4aeb6979235b2e"
       }
     },
     "youku": {
@@ -42,6 +57,11 @@
         "linux-x86": "resources/linux-x86/youku.so",
         "linux-arm": "resources/linux-arm/youku.so",
         "windows-amd64": "resources/windows-amd64/youku.pyd"
+      },
+      "hashes": {
+        "linux-x86": "2cd64ce2d97ed8fce1cee36717679f0c0ab594ee7118f41e62bf6d53b787a780",
+        "linux-arm": "6f9957db94aa4b9deab7a312fcaeef383eaf113f51dbd29c05292f5468fe7f8a",
+        "windows-amd64": "a1c4ba734db44c4599885108cf411b61071aed7129b79d643e4dda1f911e3045"
       }
     },
     "gamer": {
@@ -52,6 +72,11 @@
         "linux-x86": "resources/linux-x86/gamer.so",
         "linux-arm": "resources/linux-arm/gamer.so",
         "windows-amd64": "resources/windows-amd64/gamer.pyd"
+      },
+      "hashes": {
+        "linux-x86": "07e5938273ae514527f44141c2521d1ebc5049dae310bb1e1a7b9dcf954c5abc",
+        "linux-arm": "d15a384da9a887d5335a54976f4cae7955143e4dbe46ea68f05f6667326db96b",
+        "windows-amd64": "97a3f0852ee49cda69d7c79de1960021e462d3cff9ee243eeaff54df13b71eb0"
       }
     },
     "dandanplay": {
@@ -62,6 +87,11 @@
         "linux-x86": "resources/linux-x86/dandanplay.so",
         "linux-arm": "resources/linux-arm/dandanplay.so",
         "windows-amd64": "resources/windows-amd64/dandanplay.pyd"
+      },
+      "hashes": {
+        "linux-x86": "1ded0d98714a9713a3a75c822db73faee6e9e639da5bca3fecaa84007f6e3fa3",
+        "linux-arm": "96a50f50ac119d42610d29d2d66e730141bcc5bf6d9d84512b632695d244ac6b",
+        "windows-amd64": "78875a04017d4b991c349e7c9fb166df133523eec2fc42c0210399dc4f9f0ad4"
       }
     },
     "hanjutv": {
@@ -72,6 +102,11 @@
         "linux-x86": "resources/linux-x86/hanjutv.so",
         "linux-arm": "resources/linux-arm/hanjutv.so",
         "windows-amd64": "resources/windows-amd64/hanjutv.pyd"
+      },
+      "hashes": {
+        "linux-x86": "c0394707bcc00f26b660d7000ab9ea96fb4f9f4c0c21459dd1b43df5d4b19476",
+        "linux-arm": "5066b777414eae991ecd390699aeb22fd7e10146835b20a275930b23238ac641",
+        "windows-amd64": "99154dc86f5dbc1fa76db5f26def8dea74b1d830936548371906c0f4ddea5015"
       }
     },
     "le": {
@@ -82,6 +117,11 @@
         "linux-x86": "resources/linux-x86/le.so",
         "linux-arm": "resources/linux-arm/le.so",
         "windows-amd64": "resources/windows-amd64/le.pyd"
+      },
+      "hashes": {
+        "linux-x86": "7004acaa121e6d6d16b0bde8e9358c9023aba6e6497d7819eb4f36913dc3ceb0",
+        "linux-arm": "e247491c88258d11a52d5bca512881c2840b568f01cefaa5dffb25f8466bef8d",
+        "windows-amd64": "2e151ed5d491f51ee8e503bb4d965ee8c3ba8e904c3fdb6609f30ea7c7658a1a"
       }
     },
     "mgtv": {
@@ -92,6 +132,11 @@
         "linux-x86": "resources/linux-x86/mgtv.so",
         "linux-arm": "resources/linux-arm/mgtv.so",
         "windows-amd64": "resources/windows-amd64/mgtv.pyd"
+      },
+      "hashes": {
+        "linux-x86": "2af42f649a68006990220fc74545616b93121b4029400f3e0d87e3a573de354a",
+        "linux-arm": "8e3c472e1b100016f612738338c5450ca1d2008a4b693bd5c0a88ece480e9bd6",
+        "windows-amd64": "ac90cc2675ccac92ffe1c154f9e6ddf9669fd5ab848a7ffe184b49292ef6587d"
       }
     },
     "renren": {
@@ -102,6 +147,11 @@
         "linux-x86": "resources/linux-x86/renren.so",
         "linux-arm": "resources/linux-arm/renren.so",
         "windows-amd64": "resources/windows-amd64/renren.pyd"
+      },
+      "hashes": {
+        "linux-x86": "c13809f6d8eef1e2c058d09f95c8e7235f9886220d78697a62e401c38161377c",
+        "linux-arm": "760223820d44da4752d5595bceb22e2fbec4183c83541dbddee050cd22c0bd5d",
+        "windows-amd64": "e8b0e6e639107e190e7b75f05115eee099c67f1df61792d5f15f1965e5842bb0"
       }
     },
     "sohu": {
@@ -112,6 +162,11 @@
         "linux-x86": "resources/linux-x86/sohu.so",
         "linux-arm": "resources/linux-arm/sohu.so",
         "windows-amd64": "resources/windows-amd64/sohu.pyd"
+      },
+      "hashes": {
+        "linux-x86": "bf235189b59eb385df903abcd3664a43a117aa0ad3e5ee65762454192240d24d",
+        "linux-arm": "2844061c272e56499b59eec489575955c13d99d5c356ff2f42850d5634957400",
+        "windows-amd64": "4df76c7bd378bb4a91f189ea1106f0e306646e8343b27f1291f8bf2394e5644d"
       }
     }
   }
