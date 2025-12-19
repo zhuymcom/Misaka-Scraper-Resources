@@ -1,31 +1,31 @@
 {
   "platform": "linux",
   "type": "x86",
-  "version": "1.4.0",
+  "version": "1.4.4",
   "scrapers": {
-    "iqiyi": "1.0.0",
-    "bilibili": "1.0.0",
+    "iqiyi": "1.0.1",
     "renren": "1.0.0",
-    "le": "1.0.1",
-    "tencent": "1.0.0",
-    "hanjutv": "1.0.1",
-    "dandanplay": "1.0.1",
-    "mgtv": "1.0.5",
-    "gamer": "1.0.1",
     "sohu": "1.0.1",
-    "youku": "1.0.3"
+    "tencent": "1.0.0",
+    "youku": "1.0.3",
+    "le": "1.0.1",
+    "gamer": "1.0.2",
+    "hanjutv": "1.0.1",
+    "bilibili": "1.0.2",
+    "mgtv": "1.0.5",
+    "dandanplay": "1.0.1"
   },
   "hashes": {
-    "iqiyi": "2d2cde4f430cf9172d92e0822d34590153d6b044dec152eafae3d95ffa60aec9",
-    "bilibili": "12ee332eb58657fcf2b76ad128c035038fe98d8e5b070ec2cd1d1dbf4010cd7a",
+    "iqiyi": "a76ad46575254d0149ca9682c1454301c71dd1772da6bc5f1f83c486e1fb8ee7",
     "renren": "9acfbcf9de96af72ef4adf26d427f7d17ab1cd68e57b3ded2b176444c582476c",
-    "le": "4da5d67ebb59a1c81f6f66542d429173bbb04f06b78f823fbb8fa002723fb47d",
-    "tencent": "7c3e7522cb9b3351d6c67b5d442cca3797c09c4422be0c7ed240e76dc2d9eb2f",
-    "hanjutv": "3fe6bd2d64222c0f04513ec4efd118144fda291b70e146719734c231146daafe",
-    "dandanplay": "5216cb61fba05fa559f2305a7b267c6cff62a13b28618de6a6466cdcd27c9528",
-    "mgtv": "024f17d5d5eb2b000f9bcf3bd75347123820d68e776edeafb944734183578373",
-    "gamer": "609ad772604597d27738fdf4b206bbc3d5746ce9758d605b480d8ce7e558a7cd",
     "sohu": "449af4120933c80871e9951c64a9a6233ea737b85ab1c835949187294daf9736",
-    "youku": "ddab2207feb9d5280d8c8080a83f1ccca09ae0d1f4ba24fc36146abbd28e5b33"
+    "tencent": "7c3e7522cb9b3351d6c67b5d442cca3797c09c4422be0c7ed240e76dc2d9eb2f",
+    "youku": "ddab2207feb9d5280d8c8080a83f1ccca09ae0d1f4ba24fc36146abbd28e5b33",
+    "le": "4da5d67ebb59a1c81f6f66542d429173bbb04f06b78f823fbb8fa002723fb47d",
+    "gamer": "977da7fd8199df0a795a13e6ef6ab12cdbb92dc5d91bf7e633308cea7810c3a2",
+    "hanjutv": "3fe6bd2d64222c0f04513ec4efd118144fda291b70e146719734c231146daafe",
+    "bilibili": "c0b51dfbb80457291d8ee0ab84ec6fbde26659f7e91bfdbb00b896d9ebcbab64",
+    "mgtv": "024f17d5d5eb2b000f9bcf3bd75347123820d68e776edeafb944734183578373",
+    "dandanplay": "5216cb61fba05fa559f2305a7b267c6cff62a13b28618de6a6466cdcd27c9528"
   }
 }
