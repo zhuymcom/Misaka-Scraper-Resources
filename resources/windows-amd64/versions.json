@@ -1,9 +1,9 @@
 {
   "platform": "windows",
   "type": "amd64",
-  "version": "1.4.4",
+  "version": "1.4.6",
   "scrapers": {
-    "bilibili": "1.0.2",
+    "bilibili": "1.0.4",
     "dandanplay": "1.0.1",
     "gamer": "1.0.2",
     "hanjutv": "1.0.1",
@@ -16,16 +16,16 @@
     "youku": "1.0.3"
   },
   "hashes": {
-    "bilibili": "8bdf0dbc238caded87f7d11fe73f673fed8981095ca6b0037c847a209ad963e1",
-    "dandanplay": "235973cf11166402d950c75b7a5e84149b0608df6a99c9b1d5d5f6e4e274763b",
-    "gamer": "2c85215a8a04f65d2f9018abacad387659056cb3beaf01986c9bb826acbdbfba",
-    "hanjutv": "fe9bb877c9a5946ffa092a485bc3c6154c53757eb4aca57000d68ccced11b7b1",
-    "iqiyi": "61401f7188d3acd058a8a90e0296824209503c0ac82a6b783e6eb2c70911c32e",
-    "le": "78bb9ea551a722fcc345d19c012e6d6b374be91d3a2a70ac3b25c73c7e26e7b5",
-    "mgtv": "fc165474037b9621b9a4de024a222ff62a546c0225b73f0ff7dfa7dc4b057bd0",
-    "renren": "2421d4012d7e2446cc6c056bbeb4b21dee4abb0a11deef6944ed8f8b2ecec055",
-    "sohu": "1c331e9a4474b40de184146d747c878cfc3f1d5b4f5513dec31f78249bf9f11a",
-    "tencent": "6c851905b52068e8444e9ae4902ea46da0d7063964090a3ede21251febf9c35a",
-    "youku": "7da36be37c3567fada1fc173429d893c686c87fa8efa5807bdbc9acfb9f77f70"
+    "bilibili": "d2ed6f9685e517f069a1aeffe3c966d89ca35c86b5fd93a33fae36fea9585cf8",
+    "dandanplay": "19dbdc175a6faeae810277563cdfb61c05f00ca8bb17828df15250ede8d9f65b",
+    "gamer": "b6997c2cc8a9c9630ad119b3eca69071373904c946d4149f2a2fa61d2801f90d",
+    "hanjutv": "3aef2347d2a8edfc2296071cd0d27689b527118623c4e4acb3569912332c7964",
+    "iqiyi": "2137eb0bc1bf0f171e56823ec0bf44fb669f5eaa06ed573e1e73a21cb7d13a66",
+    "le": "d9dd78e26bddf29cae930def256bb0213be41137bdadcb9e68e3203328116ef1",
+    "mgtv": "355739e32a15edbe8ef6d2b75aefbbb15fd9e02b9ec44ada86ee060a18c9865b",
+    "renren": "2127afaf8e014a94030cf588e9360f7b98f8749237b80b0551851052af8b3467",
+    "sohu": "dfc1c934d784d73f536b3eef44fe075570d264e429b78fbeec29e5240deaf7e6",
+    "tencent": "4193c66a08eb86e181dd9e88229a39fe2e166bc56ec3b4ae6f904d1f38aeb30f",
+    "youku": "93776b20bbb8ee20505bc24efe6ded75cb86fd6c68e80bf573dd28df96b44d31"
   }
 }
