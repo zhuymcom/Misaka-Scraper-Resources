@@ -1,12 +1,12 @@
 {
   "platform": "linux",
   "type": "x86",
-  "version": "1.4.8",
+  "version": "1.4.9",
   "scrapers": {
     "iqiyi": "1.0.2",
     "renren": "1.0.2",
     "sohu": "1.0.2",
-    "tencent": "1.0.1",
+    "tencent": "1.0.2",
     "youku": "1.0.4",
     "le": "1.0.2",
     "gamer": "1.0.3",
@@ -19,7 +19,7 @@
     "iqiyi": "a3646cd1fa3d5e1f494dfce162e2a963a048f356450eca851706da89b31c666f",
     "renren": "db3a987e6218529fbbfc9b402e57c097446dd88f0c3b75c87a0e2b073612d776",
     "sohu": "8b5187a8f9bb2526278dae8464b212967c40af05848106e042745741b3fbb4aa",
-    "tencent": "7b9b36de8df5ac5aa120d53c6c992b6e26c34325759ed8f75f929219394fcb4c",
+    "tencent": "25ecca234360cee19a9c6dc3a702e1a07a2aa16cb0e07ade1da83b40bb32ee86",
     "youku": "269206a0543c00dd6a90306eb87dc94480c10dafad1cb8230111b8d21f809aa3",
     "le": "2176c13558f7a11276654f97d8fa11c0e96a1dd6dc6e189a9be21f68dfcd4ea2",
     "gamer": "0cea37066fff65056584e5c6f602640e7026362386f3a2c96db4d62972a7b47a",
